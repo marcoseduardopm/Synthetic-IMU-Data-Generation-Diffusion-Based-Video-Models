@@ -184,8 +184,3 @@ If you use this dataset in your research, please cite:
 
 This dataset is released under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. You are free to share and adapt the material for any purpose, provided appropriate credit is given.
 
----
-
-## Contact
-
-For questions regarding the dataset or methodology, please open a GitHub Issue or contact the corresponding author via the institutional channels at [UTFPR](https://www.utfpr.edu.br/).
